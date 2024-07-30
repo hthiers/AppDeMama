@@ -1,5 +1,6 @@
 {
   "expo": {
+    "jsEngine": "hermes",
     "name": "AppDeMama",
     "slug": "AppDeMama",
     "version": "1.0.0",
